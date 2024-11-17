@@ -1,6 +1,6 @@
 # Spring Project Test 1
 
-This is a practice project for the Spring Framework.
+This is a practice project for the Spring Framework. This project was built using Maven.
 
 ## Project Overview
 This project simulates a system that retrieves users' personal information from a local CSV file. The data is fetched based on the user's ID, and the system can be accessed either via a server or locally.
