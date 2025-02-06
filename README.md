@@ -1,4 +1,4 @@
-# Spring Project Test 1
+# Spring Learning Project
 
 This is a practice project for the Spring Framework. This project was built using Maven.
 
